@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"code": "none",
+		"name": "none",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&macro_ver",
+		"name": "&macro_ver",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
